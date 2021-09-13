@@ -8,5 +8,5 @@
 - Галерея картинок + плавное движение галереи при движении курсора мыши.
 - Иконочный шрифт
 
-![alt text](https://github.com/OlefirElena/funiro/blob/main/img/Funiro Landing Page.jpg)
+![alt text](https://github.com/OlefirElena/funiro/blob/main/img/Funiro%20Landing%20Page.jpg)
 
